@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.808.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2PlayerBoardGame", "2PlayerBoardGame\2PlayerBoardGame.csproj", "{C29CD3DD-65AD-4507-952A-8D6C48C27BA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vesrion2", "vesrion2\vesrion2.csproj", "{DEAA7AB0-521E-4348-AD3F-DC1D2021FA3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C29CD3DD-65AD-4507-952A-8D6C48C27BA2}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{C29CD3DD-65AD-4507-952A-8D6C48C27BA2}.Debug|anycpu.Build.0 = Debug|anycpu
+		{C29CD3DD-65AD-4507-952A-8D6C48C27BA2}.Release|anycpu.ActiveCfg = Release|anycpu
+		{C29CD3DD-65AD-4507-952A-8D6C48C27BA2}.Release|anycpu.Build.0 = Release|anycpu
+		{DEAA7AB0-521E-4348-AD3F-DC1D2021FA3A}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{DEAA7AB0-521E-4348-AD3F-DC1D2021FA3A}.Debug|anycpu.Build.0 = Debug|anycpu
+		{DEAA7AB0-521E-4348-AD3F-DC1D2021FA3A}.Release|anycpu.ActiveCfg = Release|anycpu
+		{DEAA7AB0-521E-4348-AD3F-DC1D2021FA3A}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {276BA324-A200-42EB-BE39-ED19B639687A}
+	EndGlobalSection
+EndGlobal

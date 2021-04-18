@@ -1,0 +1,6 @@
+/Users/angelwong/Desktop/563/assignment/2PlayerBoardGame/2PlayerBoardGame/bin/Debug/2PlayerBoardGame.exe
+/Users/angelwong/Desktop/563/assignment/2PlayerBoardGame/2PlayerBoardGame/bin/Debug/2PlayerBoardGame.pdb
+/Users/angelwong/Desktop/563/assignment/2PlayerBoardGame/2PlayerBoardGame/obj/Debug/2PlayerBoardGame.csprojAssemblyReference.cache
+/Users/angelwong/Desktop/563/assignment/2PlayerBoardGame/2PlayerBoardGame/obj/Debug/2PlayerBoardGame.csproj.CoreCompileInputs.cache
+/Users/angelwong/Desktop/563/assignment/2PlayerBoardGame/2PlayerBoardGame/obj/Debug/2PlayerBoardGame.exe
+/Users/angelwong/Desktop/563/assignment/2PlayerBoardGame/2PlayerBoardGame/obj/Debug/2PlayerBoardGame.pdb

@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{DEAA7AB0-521E-4348-AD3F-DC1D2021FA3A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="vesrion2/OnlineHelpSystem.cs">
+    <Files>
+      <File FileName="vesrion2/BoardGame.cs" Line="285" Column="1" />
+      <File FileName="vesrion2/Connect4Game.cs" />
+      <File FileName="vesrion2/Program.cs" />
+      <File FileName="vesrion2/Menu.cs" />
+      <File FileName="vesrion2/OnlineHelpSystem.cs" Line="37" Column="2" />
+      <File FileName="vesrion2/Rule.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="2PlayerBoardGame" expanded="True">
+            <Node name="2PlayerBoardGame" expanded="True" />
+            <Node name="vesrion2" expanded="True">
+              <Node name="OnlineHelpSystem.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.vesrion2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">anycpu</Platform>
+    <ProjectGuid>{DEAA7AB0-521E-4348-AD3F-DC1D2021FA3A}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>vesrion2</RootNamespace>
+    <AssemblyName>vesrion2</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|anycpu' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ExternalConsole>true</ExternalConsole>
+    <IntermediateOutputPath>obj\anycpu\Debug</IntermediateOutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|anycpu' ">
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ExternalConsole>true</ExternalConsole>
+    <IntermediateOutputPath>obj\anycpu\Release</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="GameCommand.cs" />
+    <Compile Include="MoveCommand.cs" />
+    <Compile Include="ConcreteGameCommand.cs" />
+    <Compile Include="Game.cs" />
+    <Compile Include="ConcreteMoveCommand.cs" />
+    <Compile Include="Player.cs" />
+    <Compile Include="CommandInvoker.cs" />
+    <Compile Include="Menu.cs" />
+    <Compile Include="Connect4Game.cs" />
+    <Compile Include="OnlineHelpSystem.cs" />
+    <Compile Include="GameData.cs" />
+    <Compile Include="Board.cs" />
+    <Compile Include="Piece.cs" />
+    <Compile Include="BoardGame.cs" />
+    <Compile Include="RuleCommand.cs" />
+    <Compile Include="Rule.cs" />
+    <Compile Include="GameHistroyData.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+</Project>

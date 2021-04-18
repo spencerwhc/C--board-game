@@ -1,0 +1,6 @@
+/Users/angelwong/Desktop/563/assignment/2PlayerBoardGame/vesrion2/obj/anycpu/Debug/vesrion2.csprojAssemblyReference.cache
+/Users/angelwong/Desktop/563/assignment/2PlayerBoardGame/vesrion2/obj/anycpu/Debug/vesrion2.csproj.CoreCompileInputs.cache
+/Users/angelwong/Desktop/563/assignment/2PlayerBoardGame/vesrion2/bin/Debug/vesrion2.exe
+/Users/angelwong/Desktop/563/assignment/2PlayerBoardGame/vesrion2/bin/Debug/vesrion2.pdb
+/Users/angelwong/Desktop/563/assignment/2PlayerBoardGame/vesrion2/obj/anycpu/Debug/vesrion2.exe
+/Users/angelwong/Desktop/563/assignment/2PlayerBoardGame/vesrion2/obj/anycpu/Debug/vesrion2.pdb
